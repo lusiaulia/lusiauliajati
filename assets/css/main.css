@@ -2544,3 +2544,14 @@ input, select, textarea {
 		.special:not(.button):active:before {
 				background-color: rgba(255, 255, 255, 0.075);
 		}
+
+		.label {
+			display: inline;
+			padding: 2px 2px;
+			color: rgb(255, 255, 255);
+			background-color: rgb(7, 0, 0);
+			border-radius: 10px;
+			font-size: 10px;
+			margin-right: 5px;
+		  }
+		  

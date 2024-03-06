@@ -13,3 +13,9 @@
         }
     }
 
+    // var label = document.querySelector('.label');
+    // label.addEventListener('click', function() {
+    //   label.style.backgroundColor = 'red';
+    // });
+    
+
