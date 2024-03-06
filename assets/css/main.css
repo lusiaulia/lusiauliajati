@@ -1523,7 +1523,7 @@ input, select, textarea {
 		-webkit-transition: background .2s ease-in-out, box-shadow .2s ease-in-out;
 		-ms-transition: background .2s ease-in-out, box-shadow .2s ease-in-out;
 		transition: background .2s ease-in-out, box-shadow .2s ease-in-out;
-		/* -webkit-appearance: none; */
+		-webkit-appearance: none;
 		display: block;
 		border: 0;
 		padding: 0.75em;
@@ -1673,7 +1673,7 @@ input, select, textarea {
 		-webkit-transition: background-color .2s ease-in-out;
 		-ms-transition: background-color .2s ease-in-out;
 		transition: background-color .2s ease-in-out;
-		/* -webkit-appearance: none; */
+		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
 		color: #fff !important;
@@ -2545,13 +2545,13 @@ input, select, textarea {
 				background-color: rgba(255, 255, 255, 0.075);
 		}
 
-		.label {
-			display: inline;
-			padding: 2px 2px;
-			color: rgb(255, 255, 255);
-			background-color: rgb(7, 0, 0);
-			border-radius: 10px;
-			font-size: 10px;
-			margin-right: 5px;
-		  }
+.labell {
+		display: inline;
+		padding: 2px 2px;
+		color: rgb(255, 255, 255);
+		background-color: rgb(7, 0, 0);
+		border-radius: 10px;
+		font-size: 10px;
+		margin-right: 5px;
+		}
 		  
