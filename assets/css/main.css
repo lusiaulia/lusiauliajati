@@ -1784,7 +1784,7 @@ input, select, textarea {
 			padding-left: 0;
 		}
 
-			ul.social li a {
+			ul.social li 
 				-moz-transition: top .2s ease-in-out;
 				-webkit-transition: top .2s ease-in-out;
 				-ms-transition: top .2s ease-in-out;
